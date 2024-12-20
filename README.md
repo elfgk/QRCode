@@ -1,6 +1,7 @@
 # QR Code Generator
 
 Bu uygulama, URL veya metin girdisi ile QR kodları oluşturmanızı sağlar. QR kodunu Base64 formatında veya PNG dosyası olarak indirebilirsiniz. Ayrıca, oluşturduğunuz QR kodları görsel olarak da görüntülenebilir.
+-->https://huggingface.co/spaces/elfgk/QRCode
 
 ## Özellikler
 
